@@ -1,0 +1,129 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.main_body{
+	background: #eee !important;
+	height: auto;
+}
+.cont_body{
+	background: #fff !important;
+}
+.call{
+	color: #fff !important;
+	// font-weight: bold;
+	font-size: 20px;
+}
+.call:hover{
+	background: green !important;
+}
+.logo{
+	background-image: url(../images/logo.png);
+	background-size:auto 100%;
+	background-repeat: no-repeat;
+	height: 50px !important;
+}
+.log{
+	width: 165px !important;
+	padding: 0px;
+}
+.banner{
+	height: 600px;
+}
+.banner_wrapper{
+	background-image: url(../images/image.jpg);
+	background-size:auto 100%;
+	background-repeat:repeat;
+	height: 600px;
+}
+.banner_cont{
+	// height: 600px;
+	// background: black;
+	// opacity: 0.6;
+}
+h1{
+	margin-top: 206px !important;
+    text-align: center !important;
+    color: white !important;
+}
+.butt{
+	color: #fff !important;
+}
+.butt:hover{
+	text-decoration:none !important;
+}
+.but:hover{
+	background: blue !important;
+}
+.content{
+	background: #fff;
+	margin-top: 30px;
+}
+p{
+	line-height: 20px;
+
+}
+.p{
+	font-size: 20px;
+}
+.span{
+	text-decoration: underline;
+}
+.you{
+	margin-top: 30px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.remita{
+	background-image: url(../images/remita.png);
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	height:100px;
+	border: none;
+}
+.td_1{
+	background-image: url(../images/td_1.jpg);
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	height: 300px;
+}
+.td_2{
+	background-image: url(../images/td_2.jpg);
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	height: 300px;
+}
+th{
+	font-size: 20px;
+	margin-top: 20px;
+	color: green;
+}
+.selected{
+	font-size: 30px;
+	text-align: center;
+	background: green;
+	color: #fff;
+	border-radius: 5px;
+}
+.selected:hover{
+	color: #fff;
+	background: blue;
+	cursor: pointer;
+}
+.one{
+	margin-top: 120px;
+}
+.make{
+	background: green;
+	color: #fff;
+	height: 50px;
+	width: 30%;
+	border-radius: 5px;
+	border: none;
+	font-size: 20px;
+}
+.make:hover{
+	background: blue;
+	color: #fff;
+}
+
